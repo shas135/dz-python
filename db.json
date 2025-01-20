@@ -8,7 +8,10 @@
   ],
   "comments": [
     { "id": 1, "body": "some comment1", "postId": 1 },
-    { "id": 2, "body": "some comment2", "postId": 1 }
+    { "id": 2, "body": "some comment2", "postId": 2 },
+    { "id": 3, "body": "some comment3", "postId": 3 },
+    { "id": 4, "body": "some comment4", "postId": 4 },
+    { "id": 5, "body": "some comment5", "postId": 5 }
   ],
   "profile": {
     "name": "ya"
